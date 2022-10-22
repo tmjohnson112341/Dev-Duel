@@ -1,0 +1,24 @@
+.fields{
+    display: flex;
+    flex-direction: row;
+    gap: 30vh;
+    margin-bottom: 5vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 30vh;
+}
+
+#winnerFrame1{
+    border: none;
+}
+
+#winnerFrame2{
+    border: none;
+}
+
+h1{
+    margin-bottom: -7vh;
+}

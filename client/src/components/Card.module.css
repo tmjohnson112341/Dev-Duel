@@ -1,0 +1,40 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    border: solid;
+    height: 45vh;
+    width: 60vh;
+    border-radius: 15px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+color: #000000;
+}
+
+.word{
+    background: #E1F1FF;
+    border: 1px solid rgba(0, 0, 0, 0.75);
+    border-radius: 5px;
+    font-size: 13px;
+    padding: .5vh .5vh .5vh .5vh;
+}
+.image{
+    margin-right:7vh;
+    margin-top: -5vh;
+}
+
+img{
+    height:20vh;
+    border-radius: 50%;
+}
